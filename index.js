@@ -51,4 +51,3 @@ app.delete("/api/contacts/:_id", async (req, resp) => {
 });
 // app.use("/api",route)
 app.listen(5100);
-module.exports=app;
